@@ -1,0 +1,70 @@
+{
+    "TC001": {
+        "message": "rockets is not valid, use series or group.",
+        "docs": "https://www.bankofcanada.ca/valet/docs"
+    },
+    "TC002": {
+        "message": "Bad output format (postcard) requested.",
+        "docs": "https://www.bankofcanada.ca/valet/docs"
+    },
+    "TC003": {
+        "message": "Series %7B*.*%7D not found.",
+        "docs": "https://www.bankofcanada.ca/valet/docs"
+    },
+    "TC004": {
+        "message": "Series FXJMDAUD not found.",
+        "docs": "https://www.bankofcanada.ca/valet/docs"
+    },
+    "TC005": {
+        "message": "Bad output format (telegram) requested.",
+        "docs": "https://www.bankofcanada.ca/valet/docs"
+    },
+    "TC006": {
+        "message": "Series FXUSDCAD-FXEURCAD not found.",
+        "docs": "https://www.bankofcanada.ca/valet/docs"
+    },
+    "TC007": {
+        "message": "Series o_O not found.",
+        "docs": "https://www.bankofcanada.ca/valet/docs"
+    },
+    "TC008": {
+        "message": "Bad output format (email) requested.",
+        "docs": "https://www.bankofcanada.ca/valet/docs"
+    },
+    "TC009": {
+        "message": "Start date contains a value that is not allowed. Expected format is YYYY-MM-DD, e.g. 2001-01-27",
+        "docs": "https://www.bankofcanada.ca/valet/docs"
+    },
+    "TC010": {
+        "message": "End date contains a value that is not allowed. Expected format is YYYY-MM-DD, e.g. 2001-01-27",
+        "docs": "https://www.bankofcanada.ca/valet/docs"
+    },
+    "TC011": {
+        "message": "The End date must be greater than the Start date.",
+        "docs": "https://www.bankofcanada.ca/valet/docs"
+    },
+    "TC012": {
+        "message": "Bad recent observations request parameters, you can not mix start_date or end_date with any of recent, recent_weeks, recent_months, recent_years",
+        "docs": "https://www.bankofcanada.ca/valet/docs"
+    },
+    "TC013": {
+        "message": "Bad recent observations request parameters, must be numeric",
+        "docs": "https://www.bankofcanada.ca/valet/docs"
+    },
+    "TC014": {
+        "message": "The following query parameters are invalid: %)-$",
+        "docs": "https://www.bankofcanada.ca/valet/docs"
+    },
+    "TC015": {
+        "message": "Bad recent observations request parameters, must be numeric",
+        "docs": "https://www.bankofcanada.ca/valet/docs"
+    },
+    "TC016": {
+        "message": "Bad recent observations request parameters, must be numeric",
+        "docs": "https://www.bankofcanada.ca/valet/docs"
+    },
+    "TC017": {
+        "message": "The following query parameters are invalid: ^%$",
+        "docs": "https://www.bankofcanada.ca/valet/docs"
+    }
+}

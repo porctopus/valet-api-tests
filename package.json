@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "allure-playwright": "^3.0.0-beta.7",
+    "axios": "^1.7.2",
+    "commander": "^12.1.0",
+    "jsonschema": "^1.4.1",
+    "npm": "^10.8.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.45.3",
+    "@types/node": "^22.0.0"
+  },
+  "scripts": {}
+}

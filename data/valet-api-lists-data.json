@@ -1,0 +1,52 @@
+{
+    "terms": {
+        "url": "https://www.bankofcanada.ca/terms/"
+    },
+    "groups": {
+        "sdp-2012-8": {
+            "label": "Staff Discussion Paper 2012-8",
+            "link": "https://www.bankofcanada.ca/valet/groups/sdp-2012-8",
+            "description": "This file contains data based on the Bank of Canada research paper described below. The data is not an official statistical release by the Bank of Canada, and it is provided on a voluntary basis by the author(s). The Bank and the author(s) are not responsible for errors in this file and do not guarantee that the series will be updated in the future. A contact person is listed below for any question or other inquiry.\nNote from the author(s):\nThe BOS underlying indicator is re-estimated every quarter following the release of the Business Outlook Survey (results are available on the Bank website). As such, the entire time series is revised after every release.  The date field refers to the first day of the quarter where the BOS underlying indicator is estimated. For example, 01/04/2016 refers to the 2016Q2 estimate, which is available roughly one week after the end of the quarter (e.g. mid-July 2016).\nContact person:\nLise Pichette (lpichette@bank-banque-canada.ca)"
+        },
+        "bos": {
+            "label": "Business Outlook Survey",
+            "link": "https://www.bankofcanada.ca/valet/groups/bos",
+            "description": "A summary of interviews conducted by the Bank's regional offices with the senior management of about 100 firms, selected in accordance with the composition of Canada's gross domestic product.\nThe survey's purpose is to gather the perspectives of these businesses on topics of interest to the Bank of Canada (such as demand and capacity pressures) and their forward-looking views on economic activity."
+        },
+        "FX_RATES_RECIPROCAL": {
+            "label": "Daily reciprocal exchange rates",
+            "link": "https://www.bankofcanada.ca/valet/groups/FX_RATES_RECIPROCAL",
+            "description": "Daily average reciprocal exchange rates - published once each business day by 16:30 ET. All Bank of Canada exchange rates are indicative rates only."
+        },
+        "FX_RATES_DAILY": {
+            "label": "Daily exchange rates",
+            "link": "https://www.bankofcanada.ca/valet/groups/FX_RATES_DAILY",
+            "description": "Daily average exchange rates - published once each business day by 16:30 ET. All Bank of Canada exchange rates are indicative rates only."
+        },
+        "FX_RATES_MONTHLY": {
+            "label": "Monthly exchange rates",
+            "link": "https://www.bankofcanada.ca/valet/groups/FX_RATES_MONTHLY",
+            "description": "Monthly average exchange rates - published by 16:30 ET on the last business day of each month. All Bank of Canada exchange rates are indicative rates only."
+        },
+        "FX_RATES_ANNUAL": {
+            "label": "Annual exchange rates",
+            "link": "https://www.bankofcanada.ca/valet/groups/FX_RATES_ANNUAL",
+            "description": "Annual average exchange rates - published by 16:30 ET on the last business day of each year. All Bank of Canada exchange rates are indicative rates only."
+        },
+        "BCPI_WEEKLY": {
+            "label": "Weekly BCPI",
+            "link": "https://www.bankofcanada.ca/valet/groups/BCPI_WEEKLY",
+            "description": "Weekly Bank of Canada commodity price index."
+        },
+        "BCPI_MONTHLY": {
+            "label": "Monthly BCPI",
+            "link": "https://www.bankofcanada.ca/valet/groups/BCPI_MONTHLY",
+            "description": "Monthly Bank of Canada commodity price index."
+        },
+        "BCPI_ANNUAL": {
+            "label": "Annual BCPI",
+            "link": "https://www.bankofcanada.ca/valet/groups/BCPI_ANNUAL",
+            "description": "Annual Bank of Canada commodity price index."
+        }
+    }
+}

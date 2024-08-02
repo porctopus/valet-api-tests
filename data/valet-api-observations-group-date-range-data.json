@@ -1,0 +1,446 @@
+{
+    "input": {
+        "group": "FX_RATES_DAILY",
+        "format": "json",
+        "startDate": "2023-01-01",
+        "endDate": "2023-06-30"
+    },
+    "expected": {
+        "terms": {
+            "url": "https://www.bankofcanada.ca/terms/"
+        },
+        "groupDetail": {
+            "label": "Daily exchange rates",
+            "description": "Daily average exchange rates - published once each business day by 16:30 ET. All Bank of Canada exchange rates are indicative rates only.",
+            "link": null
+        },
+        "seriesDetail": {
+            "FXAUDCAD": {
+                "label": "AUD/CAD",
+                "description": "Australian dollar to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXBRLCAD": {
+                "label": "BRL/CAD",
+                "description": "Brazilian real to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXCNYCAD": {
+                "label": "CNY/CAD",
+                "description": "Chinese renminbi to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXEURCAD": {
+                "label": "EUR/CAD",
+                "description": "European euro to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXHKDCAD": {
+                "label": "HKD/CAD",
+                "description": "Hong Kong dollar to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXINRCAD": {
+                "label": "INR/CAD",
+                "description": "Indian rupee to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXIDRCAD": {
+                "label": "IDR/CAD",
+                "description": "Indonesian rupiah to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXJPYCAD": {
+                "label": "JPY/CAD",
+                "description": "Japanese yen to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXMYRCAD": {
+                "label": "MYR/CAD",
+                "description": "Malaysian ringgit to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXMXNCAD": {
+                "label": "MXN/CAD",
+                "description": "Mexican peso to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXNZDCAD": {
+                "label": "NZD/CAD",
+                "description": "New Zealand dollar to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXNOKCAD": {
+                "label": "NOK/CAD",
+                "description": "Norwegian krone to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXPENCAD": {
+                "label": "PEN/CAD",
+                "description": "Peruvian new sol to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXRUBCAD": {
+                "label": "RUB/CAD",
+                "description": "Russian ruble to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXSARCAD": {
+                "label": "SAR/CAD",
+                "description": "Saudi riyal to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXSGDCAD": {
+                "label": "SGD/CAD",
+                "description": "Singapore dollar to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXZARCAD": {
+                "label": "ZAR/CAD",
+                "description": "South African rand to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXKRWCAD": {
+                "label": "KRW/CAD",
+                "description": "South Korean won to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXSEKCAD": {
+                "label": "SEK/CAD",
+                "description": "Swedish krona to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXCHFCAD": {
+                "label": "CHF/CAD",
+                "description": "Swiss franc to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXTWDCAD": {
+                "label": "TWD/CAD",
+                "description": "Taiwanese dollar to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXTHBCAD": {
+                "label": "THB/CAD",
+                "description": "Thai baht to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXTRYCAD": {
+                "label": "TRY/CAD",
+                "description": "Turkish lira to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXGBPCAD": {
+                "label": "GBP/CAD",
+                "description": "UK pound sterling to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXUSDCAD": {
+                "label": "USD/CAD",
+                "description": "US dollar to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            },
+            "FXVNDCAD": {
+                "label": "VND/CAD",
+                "description": "Vietnamese dong to Canadian dollar daily exchange rate",
+                "dimension": {
+                    "key": "d",
+                    "name": "Date"
+                }
+            }
+        },
+        "responseData": {
+            "1": {
+                "d": "2023-01-03",
+                "FXAUDCAD": {
+                    "v": "0.9196"
+                },
+                "FXBRLCAD": {
+                    "v": "0.2522"
+                },
+                "FXCNYCAD": {
+                    "v": "0.1976"
+                },
+                "FXEURCAD": {
+                    "v": "1.4420"
+                },
+                "FXHKDCAD": {
+                    "v": "0.1748"
+                },
+                "FXINRCAD": {
+                    "v": "0.01648"
+                },
+                "FXIDRCAD": {
+                    "v": "0.000088"
+                },
+                "FXJPYCAD": {
+                    "v": "0.01045"
+                },
+                "FXMXNCAD": {
+                    "v": "0.07033"
+                },
+                "FXNZDCAD": {
+                    "v": "0.8534"
+                },
+                "FXNOKCAD": {
+                    "v": "0.1361"
+                },
+                "FXPENCAD": {
+                    "v": "0.3580"
+                },
+                "FXRUBCAD": {
+                    "v": "0.01874"
+                },
+                "FXSARCAD": {
+                    "v": "0.3633"
+                },
+                "FXSGDCAD": {
+                    "v": "1.0159"
+                },
+                "FXZARCAD": {
+                    "v": "0.08030"
+                },
+                "FXKRWCAD": {
+                    "v": "0.001069"
+                },
+                "FXSEKCAD": {
+                    "v": "0.1294"
+                },
+                "FXCHFCAD": {
+                    "v": "1.4589"
+                },
+                "FXTWDCAD": {
+                    "v": "0.04448"
+                },
+                "FXTRYCAD": {
+                    "v": "0.07290"
+                },
+                "FXGBPCAD": {
+                    "v": "1.6372"
+                },
+                "FXUSDCAD": {
+                    "v": "1.3658"
+                }
+            },
+            "2": {
+                "d": "2023-06-30",
+                "FXAUDCAD": {
+                    "v": "0.8814"
+                },
+                "FXBRLCAD": {
+                    "v": "0.2752"
+                },
+                "FXCNYCAD": {
+                    "v": "0.1825"
+                },
+                "FXEURCAD": {
+                    "v": "1.4445"
+                },
+                "FXHKDCAD": {
+                    "v": "0.1690"
+                },
+                "FXINRCAD": {
+                    "v": "0.01614"
+                },
+                "FXIDRCAD": {
+                    "v": "0.000088"
+                },
+                "FXJPYCAD": {
+                    "v": "0.009170"
+                },
+                "FXMXNCAD": {
+                    "v": "0.07736"
+                },
+                "FXNZDCAD": {
+                    "v": "0.8112"
+                },
+                "FXNOKCAD": {
+                    "v": "0.1235"
+                },
+                "FXPENCAD": {
+                    "v": "0.3650"
+                },
+                "FXRUBCAD": {
+                    "v": "0.01481"
+                },
+                "FXSARCAD": {
+                    "v": "0.3530"
+                },
+                "FXSGDCAD": {
+                    "v": "0.9786"
+                },
+                "FXZARCAD": {
+                    "v": "0.07027"
+                },
+                "FXKRWCAD": {
+                    "v": "0.001004"
+                },
+                "FXSEKCAD": {
+                    "v": "0.1227"
+                },
+                "FXCHFCAD": {
+                    "v": "1.4783"
+                },
+                "FXTWDCAD": {
+                    "v": "0.04250"
+                },
+                "FXTRYCAD": {
+                    "v": "0.05080"
+                },
+                "FXGBPCAD": {
+                    "v": "1.6817"
+                },
+                "FXUSDCAD": {
+                    "v": "1.3240"
+                }
+            },
+            "3": {
+                "d": "2023-04-24",
+                "FXAUDCAD": {
+                    "v": "0.9055"
+                },
+                "FXBRLCAD": {
+                    "v": "0.2679"
+                },
+                "FXCNYCAD": {
+                    "v": "0.1964"
+                },
+                "FXEURCAD": {
+                    "v": "1.4937"
+                },
+                "FXHKDCAD": {
+                    "v": "0.1725"
+                },
+                "FXINRCAD": {
+                    "v": "0.01653"
+                },
+                "FXIDRCAD": {
+                    "v": "0.000091"
+                },
+                "FXJPYCAD": {
+                    "v": "0.01007"
+                },
+                "FXMXNCAD": {
+                    "v": "0.07523"
+                },
+                "FXNZDCAD": {
+                    "v": "0.8329"
+                },
+                "FXNOKCAD": {
+                    "v": "0.1282"
+                },
+                "FXPENCAD": {
+                    "v": "0.3604"
+                },
+                "FXRUBCAD": {
+                    "v": "0.01662"
+                },
+                "FXSARCAD": {
+                    "v": "0.3611"
+                },
+                "FXSGDCAD": {
+                    "v": "1.0149"
+                },
+                "FXZARCAD": {
+                    "v": "0.07464"
+                },
+                "FXKRWCAD": {
+                    "v": "0.001015"
+                },
+                "FXSEKCAD": {
+                    "v": "0.1319"
+                },
+                "FXCHFCAD": {
+                    "v": "1.5237"
+                },
+                "FXTWDCAD": {
+                    "v": "0.04418"
+                },
+                "FXTRYCAD": {
+                    "v": "0.06980"
+                },
+                "FXGBPCAD": {
+                    "v": "1.6877"
+                },
+                "FXUSDCAD": {
+                    "v": "1.3542"
+                }
+            }
+        }
+    }
+}

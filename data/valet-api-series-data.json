@@ -1,0 +1,30 @@
+[
+    {
+        "series": "FXUSDCAD",
+        "format": "json",
+        "expected": {
+            "terms": {
+                "url": "https://www.bankofcanada.ca/terms/"
+            },
+            "details": {
+                "name": "FXUSDCAD",
+                "label": "USD/CAD",
+                "description": "US dollar to Canadian dollar daily exchange rate"
+            }
+        }
+    },
+    {
+        "series": "FXAUDCAD",
+        "format": "json",
+        "expected": {
+            "terms": {
+                "url": "https://www.bankofcanada.ca/terms/"
+            },
+            "details": {
+                "name": "FXAUDCAD",
+                "label": "AUD/CAD",
+                "description": "Australian dollar to Canadian dollar daily exchange rate"
+            }
+        }
+    }
+]

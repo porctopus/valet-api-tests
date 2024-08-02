@@ -1,0 +1,32 @@
+[
+    {
+        "input": {
+            "series": "FXUSDCAD,FXEURCAD",
+            "format": "json",
+            "recent_weeks": 10
+        },
+        "expected": {
+            "terms": {
+                "url": "https://www.bankofcanada.ca/terms/"
+            },
+            "seriesDetail": {
+                "FXEURCAD": {
+                    "label": "EUR/CAD",
+                    "description": "European euro to Canadian dollar daily exchange rate",
+                    "dimension": {
+                        "key": "d",
+                        "name": "Date"
+                    }
+                },
+                "FXUSDCAD": {
+                    "label": "USD/CAD",
+                    "description": "US dollar to Canadian dollar daily exchange rate",
+                    "dimension": {
+                        "key": "d",
+                        "name": "Date"
+                    }
+                }
+            }
+        }
+    }
+]
